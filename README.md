@@ -3,5 +3,6 @@ Simple Facial Recognition Web app based on flask framework and OpenCV.
 
 
 Prerequisites:
-1 - OpenCV
-2 - Flask
+1 - Python
+2 - OpenCV
+3 - Flask
